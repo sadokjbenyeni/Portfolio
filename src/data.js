@@ -20,7 +20,7 @@ const projects = [
       subtitle: "MEAN & .NET Core",
       description:
         "A web application, developed using MEAN stack and .NET Core, the application provides clients with the history of their favorite stocks, enabling them to improve their strategies using previous data.",
-      image: "",
+      image: "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/19b1dd92728112295fa8de209ce6ca9d?response-content-disposition=inline%3B%20filename%3D%22image_original%22%3B%20filename%2A%3Dutf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF4aCXVzLXdlc3QtMiJGMEQCIBsANgxQWp21wRuHNMhM0Oz19QcJdFmD60kVLDx5mLb3AiBe90NN7uNZxeZRGzsCWQoMBZuLEF946ia0GwRbCUXV3yrWBAin%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDczOTkzOTE3MzgxOSIMRIRFgzwMdziIzvsIKqoEViyLJ%2FhXywziiTfdldR%2Fe6PhHn6DImOLnuoPGn0szl1IOPYjGvC%2Bc9K9A3bQ8PaZ6iB6m1AMInuVK5TAmFBt0%2FdReVbD6WbD2XdJ1P3xXfdlJ939Fx6vbsJHsKcToTXCaDUSF7yd2QjTsmy9k9VU8IutPCSjUBA%2FdT4Lhjk8%2B%2BSF%2B%2F1Q144Ug5CZxHh6UYMVGHX3%2FGeR9xM9L0xvliUu%2FJ3tct0%2Fk4e4Gy%2BzUWZTrm0YkKAMSDn2mxuWXFSSqnpi4817nJMOqGM0tr0StFRsRIlaveOlzGfh6PqKdWlPFxz%2BKTgUnVsE%2FOaRulE%2BCvvkCTRwuoByNqIuNi6bjN3MDVnjCIUABksfuJ0L9q5m53S5WyjSovE%2FlXfHzPChg28Er5FGtr5%2B946Esdh38tSApFPDqJsY9UkrTb3MXTIXD8jLiRVCv6Ej5oeurO5jAbDAdI%2B9lyMS%2F5Ds0T5qMFuALg%2F5MBnGRiz%2F96Pj00CHvHuJ5q7kcgXqHXG0n1Pb9SvJwre6sOEmRCh9M83kBOQkqWQjj9nBcVmNiVn%2Fm8JCN6E4s%2BVgPUfZHR5KsBweZ3roL6P0Ix0MJZkVFdx6%2F1SpI8Mc3ekQ4f%2FczbBHDohn%2FfaOC7j1NrWatMR8uXppZZXFYOSSDbmMjpGpcNgW%2BhGDyMx2ixIyNC8yIxLNsz9kKXRwmIMUMJC74NI7NCKpcgY5ZXWlodhNF%2FDhdH%2Fz3ZsviU1NGUY2%2FI1GPwww%2BsL6lgY6qAF3IKizyQuBORzMKu%2FgMvPG%2BamUJ%2BWG85EbpjF1k5z96AnHHjWNTSQfOcmeCa989qPbODtcPflHA%2FKiw0E52gdHWChTaCNM43sPIhzZhGFhOgAFnLS9u%2B9a0HAm8YLDMKYtU0kqP6gq9p%2FtxLPswy1XWMRelPfPkn%2FuXAQrsTqsB7v77b6%2FZxGcxjUBHIBXIamoCN7qFqdnV3OdFD%2F7yBM1LSvnkRGQw0o%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220725T153150Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW56P4J3NY7%2F20220725%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=5226acbbfa56feb2c63d49a297a119934a12797339e22caa18386478b64db1f1",
       link: "",
     },
     {
@@ -28,7 +28,7 @@ const projects = [
       subtitle: "MEAN & .NET Core",
       description:
         "A web application, developed using MEAN stack and .NET core, the application purpose was to help stock market exchangers and traders to access to a list of algorithms that are hosted in the cloud.",
-      image: "",
+      image: "https://lh3.googleusercontent.com/AZlNWslVJmtq_2uC9-IGfqmhuGKOkvP1tNgxzedjMPihRIQFGNwXkGRk5OHQb3GcPYvU00EfEdxZJRFYeYVby24wdxaVjbu9av8STLkHsG32ab-Vk4X_k7C7nfRWmCZbQGOODMzQ2xFQPLnIaBjFkYQw9nacjj-fMBydL3gsMgnBG5KstCgC6qV5JK7lgV0LNM70iLpQI3I36h-Ui1tlF0TDoGLBhHApANqAn7zprZwUdv3ReJbLSVlU0sla1QOl274gEyBtE3s3btUFh78ItKWUTYvyw8n4ggkMfbQPpJ2fWzdNokcLz4V805ge2Xx1DDWKP_r6RSElwdmc4S5PPq6rz4p-SP2KNRJaRtvXZzgHr2T4sPHHZ9xdDNuddTtvUY1Ke2DxlhEAw8EMD72h4xjf3cQwnmLnL6nmVy7atWkM10et-0lwrYIVafUOOy73pBr9lLQiMB2qFOnZaSsR5_jmOf08-4HFMW_g93hwv_NoETVWNPAkYYJemas91crNTIfly9LVxCPqE8Iz8YhqHL0bkUtkdzyE0tpf6DiyGukTRuqfNpiSF7AkXlJ_bs_Rr6ZArTfA0su_GcRyIgqqoBjDVfuFgfMCpwAQ6b07mPAkuytAnVAP9kkWx-46HGIPYcVazIY-JFDxM4SKB2mGrJ35u3LVuZtj-uv6LiB_7AzXZI7qAJNjFxaigLSAp4EbZJHVzkDHALnPbvBTU0cmxfiQjWdTMN8L31pDDMtXV_tNDQvmc4vKcpAW3JsKBed8b965s6Ypftk_h9ckhY6cEKjbwZPr9wctMAY=w1901-h939-no?authuser=1",
       link: "",
     },
   ];
